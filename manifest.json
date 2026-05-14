@@ -1,0 +1,41 @@
+{
+  "name": "Snake Escape Puzzle",
+  "short_name": "Snake Escape Puzzle",
+  "description": "Guide snakes to freedom in a clever puzzle challenge. Think ahead, move wisely, and escape before time runs out.",
+  "icons": [
+    {
+      "src": "./icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./banner-1920x1080.jpg",
+      "sizes": "1920x1080",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/ms-games/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "ms_start_compatible": true,
+  "background_color": "#000000",
+  "id": "9nl06d0k9gwl",
+  "lang": "en",
+  "orientation": "portrait-primary",
+  "categories": [
+    "games"
+  ],
+  "prefer_related_applications": false,
+  "dir": "auto",
+  "display_override": [
+    "window-controls-overlay"
+  ],
+  "_msstart": {
+    "leaderboards": {
+      "default": {
+        "score_type": "Numeric",
+        "score_order_by": "Desc"
+      }
+    }
+  }
+}
