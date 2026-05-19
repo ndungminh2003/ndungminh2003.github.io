@@ -1,7 +1,7 @@
 {
   "name": "Goods Tidy",
   "short_name": "Goods Tidy",
-  "description": "Goods Tidy Puzzle: A satisfying sorting puzzle game where you organize goods, match identical items, and enjoy a calming, clutter-free experience!",
+  "description": "A satisfying sorting puzzle game where you organize goods, match identical items, and enjoy a calming, clutter-free experience!",
   "icons": [
     {
       "src": "./icon-512x512.png",
